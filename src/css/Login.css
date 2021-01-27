@@ -1,0 +1,12 @@
+.login-form {
+  max-width: 300px;
+  position: relative;
+  left: 10vw;
+}
+.login-form-button {
+  width: 100%;
+}
+.logout{
+  float: right;
+  margin-top: 10px;
+}
